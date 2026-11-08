@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-labelledby="title desc">
+  <title id="title">CRM department illustration</title>
+  <desc id="desc">People, conversation bubbles and connected relationship lines representing CRM services.</desc>
+  <defs><linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#173b70"/><stop offset="1" stop-color="#2d8b69"/></linearGradient></defs>
+  <rect width="640" height="420" rx="28" fill="url(#bg)"/><circle cx="528" cy="87" r="58" fill="#ed1c24" opacity=".85"/>
+  <circle cx="196" cy="151" r="43" fill="#f2d7a0"/><path d="M119 294c0-47 35-80 77-80s77 33 77 80v22H119Z" fill="#fff" opacity=".95"/><circle cx="326" cy="207" r="34" fill="#b8e8e3"/><path d="M269 313c0-39 26-66 57-66s57 27 57 66v10H269Z" fill="#dceefa"/><path d="M409 132h119a18 18 0 0 1 18 18v70a18 18 0 0 1-18 18h-51l-34 31v-31h-34a18 18 0 0 1-18-18v-70a18 18 0 0 1 18-18Z" fill="#fff" opacity=".94"/><path d="M429 171h76m-76 28h52" stroke="#2d8b69" stroke-width="11" stroke-linecap="round"/><path d="M236 166 292 196m61 5 54-30" stroke="#fff" stroke-width="8" stroke-linecap="round" opacity=".8"/>
+</svg>

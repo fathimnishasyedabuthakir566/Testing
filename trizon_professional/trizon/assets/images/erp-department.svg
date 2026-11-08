@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-labelledby="title desc">
+  <title id="title">ERP department illustration</title>
+  <desc id="desc">Connected business blocks and a dashboard representing enterprise resource planning.</desc>
+  <defs><linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#173b70"/><stop offset="1" stop-color="#98702b"/></linearGradient></defs>
+  <rect width="640" height="420" rx="28" fill="url(#bg)"/><circle cx="524" cy="86" r="58" fill="#ed1c24" opacity=".85"/>
+  <rect x="95" y="104" width="252" height="211" rx="18" fill="#fff" opacity=".96"/><rect x="121" y="133" width="91" height="59" rx="9" fill="#dceefa"/><rect x="230" y="133" width="91" height="59" rx="9" fill="#f2d7a0"/><rect x="121" y="214" width="200" height="18" rx="9" fill="#b9d8ef"/><rect x="121" y="251" width="151" height="18" rx="9" fill="#b9d8ef"/><path d="M433 151h93v63h-93zM433 239h42v57h-42zM484 239h42v57h-42z" fill="#fff" opacity=".92"/><path d="M461 151v63m0-32h65" stroke="#17477d" stroke-width="10"/><path d="M153 345h340" stroke="#fff" stroke-width="10" stroke-linecap="round" opacity=".7"/>
+</svg>

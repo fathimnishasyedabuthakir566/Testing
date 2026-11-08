@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-labelledby="title desc">
+  <title id="title">IT department illustration</title>
+  <desc id="desc">A connected monitor, cloud and code symbols representing technology services.</desc>
+  <defs><linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#123b68"/><stop offset="1" stop-color="#2b78b8"/></linearGradient></defs>
+  <rect width="640" height="420" rx="28" fill="url(#bg)"/>
+  <circle cx="526" cy="86" r="58" fill="#ed1c24" opacity=".85"/>
+  <path d="M119 111h242a18 18 0 0 1 18 18v139a18 18 0 0 1-18 18H119a18 18 0 0 1-18-18V129a18 18 0 0 1 18-18Z" fill="#fff" opacity=".96"/>
+  <path d="M83 319h316l-24 34H107l-24-34Z" fill="#b9d8ef"/>
+  <path d="m174 191 36 28-36 28M254 247h57" fill="none" stroke="#17477d" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M434 242c-26 0-47-20-47-45 0-22 16-40 37-44 8-30 35-51 67-51 38 0 69 29 72 66 25 3 44 24 44 50 0 28-23 51-51 51H434Z" fill="#dceefa"/>
+  <path d="M481 280v48m-24-24h48" stroke="#ed1c24" stroke-width="10" stroke-linecap="round"/>
+</svg>

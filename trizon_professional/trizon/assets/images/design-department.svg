@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-labelledby="title desc">
+  <title id="title">Design department illustration</title>
+  <desc id="desc">Color palette, brush and geometric shapes representing creative design services.</desc>
+  <defs><linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#173b70"/><stop offset="1" stop-color="#8a4f9f"/></linearGradient></defs>
+  <rect width="640" height="420" rx="28" fill="url(#bg)"/>
+  <circle cx="510" cy="95" r="62" fill="#ed1c24" opacity=".8"/><path d="m119 291 149-149 110 110-149 149Z" fill="#fff" opacity=".95"/><path d="m268 142 44-44a28 28 0 0 1 40 0l70 70a28 28 0 0 1 0 40l-44 44Z" fill="#efc4e2"/><circle cx="176" cy="185" r="16" fill="#ed1c24"/><circle cx="214" cy="147" r="16" fill="#e9b72b"/><circle cx="251" cy="109" r="16" fill="#58bf9b"/><path d="M443 252c-32 0-58-26-58-58 0-18 8-34 22-45l89 89c-15 9-33 14-53 14Z" fill="#f2d7a0"/><path d="m412 145 43-43 61 61-43 43Z" fill="#fff" opacity=".9"/><path d="m491 102 17-17 61 61-17 17Z" fill="#ed1c24"/>
+</svg>
